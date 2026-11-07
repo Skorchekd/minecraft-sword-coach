@@ -1,0 +1,130 @@
+MCA SWORD COACH MODEL LICENCE
+Version 1.1 -- 6 November 2026
+
+Licensor:  Skorchekd, ApocalypseGamer1, Crazyon and centerx, the holders of MCA, together
+           trading as MCA - Minecraft Combat AI ("we", "us", "our")
+           Contact: https://minecraftcombatai.com/
+Models:    the trained model files in this folder (technique_reader.onnx, key_reader.onnx,
+           answer_model.onnx, guide_model.onnx, spot_value.npz, hp_model.npz)
+           of Sword Coach
+
+These files are NOT covered by the GNU General Public License that applies to the Sword Coach
+code. By downloading, installing or using the Models you agree to this Licence. If you do not
+agree, do not use them.
+
+IN SHORT (this summary is for convenience; the numbered sections are what bind you):
+  - Personal, non-commercial use with Sword Coach only.
+  - Never extract, convert, fine-tune or re-host them, or train another model from them.
+  - Never sell them or ship them in anything else.
+
+
+1. DEFINITIONS
+
+"Models" means the files listed above and any copy, conversion, quantisation, fine-tune,
+translation or other modification of them, in any form, including any form reconstructed from
+the running program or from the Models' behaviour.
+
+"Outputs" means anything the Models produce, including technique reads, key estimates,
+probabilities, internal activations and expected-trade values.
+
+"Sword Coach" means the Sword Coach software in this repository, including versions of its
+GPL-licensed code that you or others have modified.
+
+"Distillation" means using the Models or their Outputs, directly or indirectly, as data,
+labels, a teacher or a reference for the purpose of creating, training, fine-tuning or
+evaluating any other model, bot or system, including by querying the Models to reconstruct
+their behaviour.
+
+
+2. WHAT YOU MAY DO
+
+Subject to your full compliance with this Licence, we grant you a personal, non-exclusive,
+non-transferable, revocable, royalty-free licence to:
+  (a) download the Models from the official Sword Coach repository and keep them as part of a
+      copy or clone of that repository;
+  (b) run them, unmodified, with Sword Coach on computers you own or control, to review your
+      own fights for your own non-commercial practice, learning and entertainment; and
+  (c) share screenshots, recordings and write-ups of your own reviews, non-commercially.
+Every right not expressly granted is reserved by us.
+
+
+3. NO COMMERCIAL USE
+
+You must not use the Models or their Outputs for any commercial purpose, including selling,
+renting or licensing them, charging for access to them or anything they power (including
+paid coaching or review services), bundling them with any product, client, mod pack or
+launcher, or using them for or on behalf of any company, server network or team, unless we
+have agreed in writing.
+
+
+4. NO DISTILLATION, EXTRACTION OR MODIFICATION
+
+You must not, and must not help anyone else to:
+  (a) perform, enable or permit Distillation;
+  (b) extract, dump, convert, quantise, fine-tune, merge, adapt or create derivative works of
+      the Models, or reverse engineer them except to the limited extent that applicable law
+      expressly permits this despite a contractual prohibition;
+  (c) remove, alter or obscure any notice, licence text, credit, version information or other
+      identifying information in them.
+
+
+5. NO SEPARATE REDISTRIBUTION
+
+You must not upload, post, mirror, re-host, sell or otherwise make the Models available on
+their own or outside a copy of the official Sword Coach repository, including in mod packs,
+launchers, file lockers, model hubs or datasets. Anyone who wants the Models must obtain them
+from the official repository or from us.
+
+
+6. OWNERSHIP
+
+The Models are and remain our property and are protected by copyright and other laws. This
+Licence is a licence, not a sale. If you send us feedback, suggestions, fight data or labels, we
+may keep them and use them, including to train and test future models, without any obligation
+to you.
+
+
+7. TERMINATION
+
+This Licence ends automatically and immediately if you break any of its terms. When it ends,
+you must stop using the Models and delete every copy you have. Sections 3 to 6 and 8 to 11
+survive the end of this Licence.
+
+
+8. NO WARRANTY
+
+THE MODELS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR
+ACCURACY. Technique reads and expected trades are estimates and can be wrong.
+
+
+9. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, ACCOUNTS, RANKS,
+REPUTATION OR ACCESS TO ANY SERVER OR SERVICE, ARISING OUT OF OR RELATED TO THE MODELS OR THIS
+LICENCE. Nothing in this Licence limits liability that cannot be limited by law, or any rights
+you have as a consumer that cannot be waived.
+
+
+10. YOUR RESPONSIBILITY
+
+You are solely responsible for how you use Sword Coach and the Models and for complying with
+the Minecraft End User Licence Agreement and the rules of any server you play on, including
+any rules about client mods that show information during a fight.
+
+
+11. GENERAL
+
+(a) The Models and Sword Coach are not official Minecraft products and are not approved by or
+    associated with Mojang Studios or Microsoft. "Minecraft" is a trademark of Mojang Studios.
+(b) If any part of this Licence is unenforceable, it is limited to the minimum extent
+    necessary and the rest remains in force. If we do not enforce a term straight away, we
+    have not waived it.
+(c) We may publish new versions of this Licence. A new version applies to Model versions
+    released with it.
+(d) This Licence is governed by the laws of the United Kingdom, and the courts of the United
+    Kingdom have jurisdiction, except where consumer law gives you the right to bring
+    proceedings where you live.
+(e) Questions about this Licence, or requests for permission outside it:
+    https://minecraftcombatai.com/

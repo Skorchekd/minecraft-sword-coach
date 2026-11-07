@@ -1,0 +1,19 @@
+{
+  "key.category.swordcoach.main": "Sword Coach",
+  "key.swordcoach.hud": "Panel on/off",
+  "key.swordcoach.whole": "Replay the last fight",
+  "key.swordcoach.worse": "Rewatch the moments that went worse",
+  "key.swordcoach.fights": "Your saved fights (pick one to replay)",
+  "key.swordcoach.record": "Record mode on/off",
+  "key.swordcoach.prev": "Record mode: previous technique",
+  "key.swordcoach.next": "Record mode: next technique",
+  "key.swordcoach.camera": "Replay camera: your view / your eyes / their eyes",
+  "key.swordcoach.pause": "Replay: pause",
+  "key.swordcoach.back": "Replay: previous point",
+  "key.swordcoach.forward": "Replay: next point",
+  "key.swordcoach.faster": "Replay: faster",
+  "key.swordcoach.slower": "Replay: slower",
+  "key.swordcoach.tick_back": "Replay: one tick back",
+  "key.swordcoach.tick_forward": "Replay: one tick forward",
+  "key.swordcoach.copilot": "Fight copilot"
+}

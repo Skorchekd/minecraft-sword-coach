@@ -1,0 +1,18 @@
+# Your fights and labels stay on your computer: share them with Bundle Fight Data.bat instead
+data/
+fightdata-*.zip
+*.jar
+# ...except the Gradle wrapper, which a fresh clone needs to build the mod
+!mod/gradle/wrapper/gradle-wrapper.jar
+
+# Build and environment output
+server/.venv/
+__pycache__/
+*.pyc
+mod/build/
+mod/.gradle/
+mod/run/
+mod/.idea/
+
+# Per-install key for player codes: never shared
+server/.install_key

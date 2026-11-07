@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Windows batch files need CRLF (cmd mis-parses labels with LF), also in GitHub's "Download ZIP"
+*.bat text eol=crlf
+# The Gradle wrapper script runs under sh
+mod/gradlew text eol=lf
+# Binary model files
+*.onnx binary
+*.npz binary
+*.jar binary
